@@ -1,0 +1,21 @@
+
+.div-margin {
+    margin: 40px;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 800px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+.heading {
+    text-align: center;
+}
+
+
+.link-line {
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+    font-size: larger;
+}

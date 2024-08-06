@@ -1,0 +1,35 @@
+﻿
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/OpenSans-VariableFont_wdth,wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'OpenSans-Italic';
+    src: url('../fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'FiraMono-Regular';
+    src: url('../fonts/FiraMono-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'FiraMono-Medium';
+    src: url('../fonts/FiraMono-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'FiraMono-Bold';
+    src: url('../fonts/FiraMono-Bold.ttf') format('truetype');
+}
+
+
+html, body {
+    font-family: OpenSans, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+
